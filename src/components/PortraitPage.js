@@ -44,7 +44,7 @@ const PortraitPage = () => {
       return(
         <div className="cinematic-frame">
           <div className="cinematic-box">
-            <img src={img} />
+            <img src={img} alt='No such movie found !'/>
           </div>
         </div>
 
